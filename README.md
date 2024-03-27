@@ -1,5 +1,5 @@
 <a name="readme-top"></a> 
-<h1><img align="center" height="150" src="https://github.com/Ranjanji/pink-pot-9002/blob/main/Crime%20logo.png">Crime Management System</h1>
+<h1><img align="center" height="150" src="https://github.com/Yashhgour/Project/blob/main/Crime%20logo.png">Crime Management System</h1>
 <h2 align="center"></h2>
 <p align="center">The objective of this project is to maintain a record of all  the cyber-crime complaints reported by  the victims and provide a platform for the cyber-crime bureau/police department to provide necessary solution and help to all of these problems.</p>
 
@@ -9,8 +9,8 @@
 <p></p>
 
 ## Application Snaps
-![Main class](https://user-images.githubusercontent.com/103635291/193461091-a41eb4b2-3123-49b9-84a0-bb0befff151e.jpeg)
-![console](https://user-images.githubusercontent.com/103635291/193461103-7ef927c2-4f93-42dc-84ce-4c1a909dd7ca.jpeg)
+![Main class](https://github.com/Yashhgour/Project/blob/main/main.png)
+![console](https://github.com/Yashhgour/Project/blob/main/console.png)
 
 ## Database Entities
 * Crime
@@ -21,7 +21,7 @@
 * Victim of Crime (foreign key)
 
 ## ER Diagram
-![App Screenshot](https://github.com/Ranjanji/pink-pot-9002/blob/main/Er-Diagram.png)
+![App Screenshot](https://github.com/Yashhgour/Project/blob/main/ER_Diagram.png)
 
 ## Tech Stacks
 * Java
