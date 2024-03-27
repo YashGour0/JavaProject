@@ -28,7 +28,7 @@
 * JDBC
 * MySQL
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,git,eclipse)](https://skillicons.dev)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Functionalities
